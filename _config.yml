@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: Kagetsu Blog
 SEOTitle: Kagetsu的博客 | Kagetsu Blog
 header-img: img/home-bg.jpg
 email: mashirokanonn@outlook.com
@@ -79,7 +79,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huxpro.github.io
+ga_domain: 
 
 
 # Sidebar settings
